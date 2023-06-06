@@ -20,7 +20,7 @@
        * Gradient Boosting with GridSearchCV
        * XGBoost with RandomisedSearchCV
        
- #Conclusion:
+ # Conclusion:
              * Count of Rented Bike(dependent variable) : positively skewed
       * Normally distributed attributes:
                     - Temperature
