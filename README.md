@@ -10,3 +10,12 @@
        * Standardising the Independent variable
        * Performing different model
        * Using LIME, getting the insights about the data that which features is impacting the data positively and negatively
+  
+ # Different Models which are used in the Project:
+       * Linear Regression
+       * Ridge Regression
+       * Decision Tree Regressor with GridSearchCV
+       * Random Forest
+       * Gradient Boosting Regressor
+       * Gradient Boosting with GridSearchCV
+       * XGBoost with RandomisedSearchCV
